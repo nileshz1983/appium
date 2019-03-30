@@ -1,0 +1,61 @@
+<menu id="mainmenu">
+    <item id="Electronics">
+		<item>Mobiles</item>
+		<item id="Mobile Accessories">
+			<item>Mobile Cases</item>
+			<item>Power Banks</item>
+			<item>Headphones</item>
+			<item>Memory Cards</item>
+			<item>On the Go Pen Drives</item>
+			<item>Cables</item>
+			<item>Explore all Accessories</item>
+		</item>
+
+		<item>SmartWatches &amp; Wearables</item>
+		<item>Televisions</item>
+		<item id="Audio &amp; Video">
+			<item>All Audio &amp; Video</item>
+			<item>Speakers</item>
+			<item>Home Theaters</item>
+		</item>
+	</item>
+	
+	<item id="Lifestyle">
+	    	<item id="Men">
+	    	    <item>Footwear</item>
+	    	    <item>Clothing</item>
+	    	    <item>Watches</item>
+	    	    <item>Bags Belts Wallets</item>
+	    	    <item>Eyewear</item>
+	    	    <item>Grooming &amp; Wellness</item>
+	    	    <item>Fragrances</item>
+	    	 </item>
+	    	 <item id="Women">
+	    	     <item>Clothing</item>
+	    	    <item>Footwear</item>
+	    	    <item>Beauty &amp; Wellness</item>
+	    	    <item>Fragrances</item>
+	    	    <item>Handbags &amp; Clutches</item>
+	    	    <item>Watches</item>
+	    	    <item>Jewellery</item>
+	    	    <item>Eyewear</item>
+	    	 </item>
+	    	 <item id="Kids &amp; Baby">
+	    	     <item>Kids Clothing</item>
+	    	    <item>Toys &amp; Games</item>
+	    	    <item>Baby Care</item>
+	    	    <item>Kids Footwear</item>
+	    	    <item>School Supplies</item>
+	    	 </item>
+	    	 <item>Personal Care Appliances</item>
+	    	  <item>Health Care</item>
+	    	  <item>Sports &amp; Fitness</item>
+	    	  
+	    	  <item id="Foods">
+	    	     <item>Health &amp; Nutrition</item>
+	    	    <item>Gourmet &amp; Specialty Foods</item>
+	    	 </item>
+	    	 <item>Luggage and Travel</item>
+	</item>
+
+</menu>

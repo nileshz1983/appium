@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [FlipKart Project]">
+  <test name="Find Right Mobile Test(failed)">
+    <classes>
+      <class name="com.qtpselenium.pom.flipkart.FindRightMobileTest">
+        <methods>
+          <include name="quit"/>
+          <include name="findRightMobileTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.qtpselenium.pom.flipkart.FindRightMobileTest -->
+    </classes>
+  </test> <!-- Find Right Mobile Test(failed) -->
+</suite> <!-- Failed suite [FlipKart Project] -->
